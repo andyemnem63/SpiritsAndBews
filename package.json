@@ -1,0 +1,30 @@
+{
+  "name": "spiritsbews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express-mysql-session": "^1.2.2",
+    "md5": "^2.2.1",
+    "mysql": "^2.14.1",
+    "node-uuid": "^1.4.8",
+    "pug": "^2.0.0-rc.3",
+    "react": "^15.6.1",
+    "serve-favicon": "^2.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyemnem63/SpiritsAndBews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyemnem63/SpiritsAndBews/issues"
+  },
+  "homepage": "https://github.com/andyemnem63/SpiritsAndBews#readme"
+}
